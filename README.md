@@ -1,7 +1,6 @@
 # Food Order App
 
-A simple React application for creating and managing food orders, build with an api that already exist in my repositories(order-manegement-api).
-
+A simple React application for creating and managing food orders, built with an API that already exists in my repositories (order-management-api)
 ## Overview
 
 This application allows users to:
