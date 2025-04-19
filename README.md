@@ -11,7 +11,7 @@ This application allows users to:
 
 # Here's a Preview
 
-![Preview](./src/assets/preview.gif)
+<img src="./src/assets/preview.gif" alt="Preview" width="300" />
 
 ## Technologies Used
 
