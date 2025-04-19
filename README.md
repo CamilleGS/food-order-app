@@ -8,7 +8,10 @@ This application allows users to:
 - View all existing orders
 - Delete orders
 - Persist data using a backend API
-![Preview](../assets/preview.gif)
+
+# Here's a Preview
+
+![Preview](./src/assets/preview.gif)
 
 ## Technologies Used
 
